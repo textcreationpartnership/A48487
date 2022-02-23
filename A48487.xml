@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters the one from Lievtenant Colonell Iohn Lilbourne to Colonel Henry Martin, a member of the House of Commons, with his answer.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48487</idno>
+            <idno type="STC">Wing L2192</idno>
+            <idno type="STC">ESTC R552</idno>
+            <idno type="EEBO-CITATION">13653359</idno>
+            <idno type="OCLC">ocm 13653359</idno>
+            <idno type="VID">101006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 793:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters the one from Lievtenant Colonell Iohn Lilbourne to Colonel Henry Martin, a member of the House of Commons, with his answer.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Marten, Henry, 1602-1680.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Marten, Henry, 1602-1680.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:101006:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:101006:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>TWO LETTERS: THE ONE FROM LIEVTENANT COLONELL Iohn Lilbourne TO COLONEL <hi>HENRY MARTIN,</hi> a Member of the Houſe of COMMONS. VVITH HIS ANSWER.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR;</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Received yours of the 21. inſtant, even now in anſwer to mine of the 20<hi rend="sup">th</hi> inſtant, and I muſt be neceſſitated to tell you, that no man ſo well knows where the ſhooe pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cheth him, as he that weares it; and my ten yeares experi<g ref="char:EOLhyphen"/>ence of afflictions, (without to this day ever obtaining one penny-worth of Juſtice,) being a younger Brother, and having not one foot of land in all the world to ſupport me, hath run me now at laſt in ma<g ref="char:EOLhyphen"/>ny ſtraights, having wife and children to ſuſtaine and provide for, as well as my ſelfe, ſo that I muſt ingenuouſly confeſſe unto you, if I had not a little credit now and then to borrow a ſumme of money, wee muſt have been forced ere now to have eate one another: and I muſt tell you, that I can not alwayes live upon that ſcore, and debts muſt either be paid in ſome time, or elſe lenders will grow weary,
+<pb facs="tcp:101006:2"/>
+                  <!-- PDF PAGE 8 -->eſpecially when they have no other ſecuritis but the bare word of a man in miſery, and preſent poverty, and guilty of my owne death, I dare not be, but muſt doe the utmoſt that the beſt reaſon GOD hath given unto mee, will dictate unto mee to preſerve my ſelfe, and truely and before God I ſpeake it, I have left no meanes I could thinke of unaſſayed to prevaile with you, to make my report, or at leaſt vigorouſly to endeavour it; for faine I would have been at the Houſe to have paid them according to their deſerts, but I could not come at them ſo fully as I would, but I muſt furiouſly ſmite you, (which I proteſt with ingenuitie I was exceeding loath to doe.) In regard you never by your ſelfe, or under your hand, or by any other way, that I could build upon for an avouched evidence, did ever give me, before now, to underſtand that you had faithfully en<g ref="char:EOLhyphen"/>deavoured to diſcharge vour dutie, whereunto you were often preft by mee. Now you tell mee you have offered my report twenty times, but could not be heard by your Houſe. I am glad to heare from your ſelfe, you have ſo done, and ſhall give credit to it, and wiſh I had had the ſame information from you the ſooner, that ſo I might not have falne ſo foule upon your ſelfe, who had not a ſmall pro<g ref="char:EOLhyphen"/>portion of my affection; and to your framing an anſwer to my prin<g ref="char:EOLhyphen"/>ted Epiſtle to you of the 30<hi rend="sup">th</hi> of <hi>May</hi> laſt, I deſire with all my heart, you may goe on, and not ſpare me, nor any man elſe in your way. And I muſt informe you, that when your friend and mine, M<hi rend="sup">r</hi> 
+                  <hi>W. W.</hi> tould me of it, I was very glad and earneſtly entreated him to preſſe you to finiſh it, telling him what ever was in it againſt mee, if you could not get it printed, I would get it done for you, and pay for it my ſelfe. Sir, goe on I beſeech you with vigor and ſtrength without delay, to diſcharge your dutie about my report, and if up<g ref="char:EOLhyphen"/>on a hearing before indifferent men, choſen by us, I have done you any wrong, I will abide the award, and punctually performe it, what ever it be, if within my power, and I doubt not but fully to make it evident, that I have been, and am as really your friend and ſervant, to the utmoſt of my power, as you are or have been;</p>
+               <closer>
+                  <dateline>
+                     <hi>From my moſt illegall captivi<g ref="char:EOLhyphen"/>tie in the Tower of</hi> London, <date>July 23. 1647.</date>
+                  </dateline>
+                  <signed>John Lilburne.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:101006:2"/>
+               <!-- PDF PAGE 8 -->
+               <head>FOR LIEVT: COLONELL Iohn Lilbourne At his Lodgings in the <hi>Tower,</hi> PRESENT THESE.</head>
+               <opener>
+                  <salute>SIR;</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">B</seg>Y yours of the <hi>23<hi rend="sup">th</hi>
+                  </hi> (outſide and inſide) I am earneſily invited to come abroad in print, for which I have not onely your advice and encou<g ref="char:EOLhyphen"/>ragement, offering to defray the charges thereof your ſelfe (notwithſtanding your poverty;) but I have your example too, (the moſt taking way of perſwaſion;) for the ſame day wherein I received your laſt by my man, I met your former Letter printed: All which is but con<g ref="char:EOLhyphen"/>current with my own reſolution, ſo expreſſed when I wrote unto you; and if I be not altogether ſo early at the Preſſe as you might expect, (becauſe your ſelfe would haply have made more haſte thither) you may be pleaſed to impute it, not to a want of knowing what to ſay in my own behalfe, nor to a loathneſſe of being at the charge to publiſh it, but partly to a kinde of tenderneſſe as the firſt ſetting my foot upon that ſtage where I was never yet (otherwiſe then paſſively,) and partly to the multitude of other buſineſſes, which were enough to diſtract a better brain
+<pb facs="tcp:101006:3"/>
+                  <!-- PDF PAGE 9 -->then mine, and ſhake the penne out of a mans hand after he had ſworn to write. In ſo much, as if every one of thoſe whom I have wronged like you (that is, for whom I have not procured what they deſired) ſhould require the ſame ſatisfaction from mee that you doe, <hi>Martins</hi> Pamphlets bound up in a volume would fill a conſiderable roome in a Bookſellers ſhop, though ſtuffed with nothing but what is moſt true for the matters overred therein, and very civill to the perſons mentioned. Therefore when you ſhall finde your ungentle lan<g ref="char:EOLhyphen"/>guage anſwered with mildneſſe, I doe freely diſclaim the deſerving of any thanks at your hands, as if I ſpared you, where in truth I ſpare my ſelfe, thinking it leſſe credit for mee to out-run you in evill ſpeaking, then to goe ſlowly on your arrands. <g ref="char:V">Ʋ</g>pon this very ground I beſeech you not to trouble your ſelfe, (much leſſe any body els) about repairing of mee, till I feele my ſelfe dilapidated; for, be<g ref="char:EOLhyphen"/>ſides that, (in my conſcience) you never meant mee harme in any thing you ſaid of mee, had your meaning been never ſo bad toward mee: I doe not take my ſelfe to be within the reach of a tongue: bitter words are indeed compared to arrowes, for ſo perhaps he fan<g ref="char:EOLhyphen"/>cies them that utters them, and ſome wiſe men, at whom they are well aimed, but I am ſuch a foole as to conceive they are alwayes ſhot upright into the aire, and either vaniſh there, or (if ever you heare any more nowes of them) they are ſure to light upon the head of him that ſhot them. Whether you have been miſtaken or no in your cenſures of mee, no man ſhall be Judge but your ſelfe, nor ſhould have been witnes, if there had not been more need of humouring you, then of clearing:</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>Your moſt affectionate friend and ſervant, <hi>H. M.</hi>
+                  </signed>
+                  <dateline>Weſtminſter <date>
+                        <hi>26</hi> Julij <hi>17.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
